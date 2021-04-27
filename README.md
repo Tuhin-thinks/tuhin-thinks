@@ -9,16 +9,28 @@
 I'm a Python developer with equal interest in other programming languages too.
 
 - 🔭 I’m currently working on *Competitive Coding Problems*
-<a href="https://github.com/tuhin-thinks/https://github.com/Tuhin-thinks/python-codes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuhin-thinks&repo=python-codes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
+![Working on](https://github-readme-stats.vercel.app/api/pin/?username=tuhin-thinks&repo=python-codes&theme=dracula)
 
 
 
   
 ## 🔧 Languages, Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/pypi/pyversions/py?color=red&logo=python&style=plastic)
+![](https://img.shields.io/pypi/pyversions/flask?color=red&label=flask&logo=flask&style=plastic)
+![](https://img.shields.io/static/v1?label=Java&logo=Java&message=%20&color=green)
+![](https://img.shields.io/static/v1?label=Android&logo=android&message=%20&color=green)
+![](https://img.shields.io/static/v1?label=cpp&logo=cplusplus&message=%20&color=green)
+
+![](https://img.shields.io/badge/mysql-%20-blue)
+![](https://img.shields.io/badge/postgres-%20-blue)
+![](https://img.shields.io/badge/mongoDB-%20-blue)
+
+
+
+![](https://img.shields.io/badge/css3-%20-yellow)
+![](https://img.shields.io/badge/html5-%20-yellow)
+![](https://img.shields.io/badge/javascript-%20-yellow)
 
 
 
