@@ -9,7 +9,7 @@
 I'm a Python developer with equal interest in other programming languages too.
 
 - 🔭 I’m currently working on *Competitive Coding Problems*
-<a href="https://github.com/tuhin-thinks/">
+<a href="https://github.com/tuhin-thinks/python-codes">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuhin-thinks&repo=python-codes&theme=dracula">
 </a>
 
